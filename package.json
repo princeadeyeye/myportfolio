@@ -4,7 +4,7 @@
   "description": "muiz adeyeye portfolio",
   "main": "gulpfile.js",
   "scripts": {
-    "build": "gulp "
+    "development": "gulp "
   },
   "author": "MUIZ ADEYEYE",
   "license": "ISC",
